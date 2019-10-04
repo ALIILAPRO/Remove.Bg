@@ -1,0 +1,11 @@
+c:\users\mr.aliilapro\documents\visual studio 2017\Projects\Removebg [ By aliilapro]\Removebg [ By aliilapro]\obj\Debug\Removebg [ By aliilapro].vbprojResolveAssemblyReference.cache
+c:\users\mr.aliilapro\documents\visual studio 2017\Projects\Removebg [ By aliilapro]\Removebg [ By aliilapro]\obj\Debug\Removebg___By_aliilapro_.Frm_1.resources
+c:\users\mr.aliilapro\documents\visual studio 2017\Projects\Removebg [ By aliilapro]\Removebg [ By aliilapro]\obj\Debug\Removebg___By_aliilapro_.Resources.resources
+c:\users\mr.aliilapro\documents\visual studio 2017\Projects\Removebg [ By aliilapro]\Removebg [ By aliilapro]\obj\Debug\Removebg [ By aliilapro].vbproj.GenerateResource.Cache
+c:\users\mr.aliilapro\documents\visual studio 2017\Projects\Removebg [ By aliilapro]\Removebg [ By aliilapro]\bin\Debug\Removebg [ By aliilapro].exe.config
+c:\users\mr.aliilapro\documents\visual studio 2017\Projects\Removebg [ By aliilapro]\Removebg [ By aliilapro]\bin\Debug\Removebg [ By aliilapro].exe
+c:\users\mr.aliilapro\documents\visual studio 2017\Projects\Removebg [ By aliilapro]\Removebg [ By aliilapro]\bin\Debug\Removebg [ By aliilapro].pdb
+c:\users\mr.aliilapro\documents\visual studio 2017\Projects\Removebg [ By aliilapro]\Removebg [ By aliilapro]\bin\Debug\Removebg [ By aliilapro].xml
+c:\users\mr.aliilapro\documents\visual studio 2017\Projects\Removebg [ By aliilapro]\Removebg [ By aliilapro]\obj\Debug\Removebg [ By aliilapro].exe
+c:\users\mr.aliilapro\documents\visual studio 2017\Projects\Removebg [ By aliilapro]\Removebg [ By aliilapro]\obj\Debug\Removebg [ By aliilapro].xml
+c:\users\mr.aliilapro\documents\visual studio 2017\Projects\Removebg [ By aliilapro]\Removebg [ By aliilapro]\obj\Debug\Removebg [ By aliilapro].pdb
